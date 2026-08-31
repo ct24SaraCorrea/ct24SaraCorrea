@@ -1,0 +1,34 @@
+{
+  "username": "ct24SaraCorrea",
+
+  "tagline_lines": [
+    "python · opencv · mediapipe",
+    "web con html, css y javascript",
+    "código + hardware + diseño"
+  ],
+
+  "_comment": "Curado a mano: cuales repos salen, en que orden, con que titulo y que etiquetas de tecnologia. La descripcion, el enlace y el demo NO van aca: se leen de la API de GitHub. Si quieres cambiar una descripcion, editala en el repo y el README se actualiza solo.",
+
+  "projects": [
+    {
+      "repo": "FINALIS",
+      "title": "Snake con detección de dedo",
+      "tech": "Python · MediaPipe · OpenCV"
+    },
+    {
+      "repo": "Wro",
+      "title": "WRO · sensores y web",
+      "tech": "ESP32 · Firebase · JavaScript"
+    },
+    {
+      "repo": "Portafolio",
+      "title": "Portafolio",
+      "tech": "HTML · CSS · JavaScript"
+    },
+    {
+      "repo": "crud",
+      "title": "CRUD de productos",
+      "tech": "JavaScript · Firebase"
+    }
+  ]
+}
