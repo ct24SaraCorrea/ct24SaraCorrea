@@ -46,8 +46,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/signal.png">
-  <img src="assets/signal-light.png" width="46%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/temple.png">
+  <img src="assets/temple-light.png" width="44%" alt="">
 </picture>
 </div>
 

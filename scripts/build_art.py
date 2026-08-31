@@ -26,10 +26,10 @@ PIECES = {
     "nebula": dict(file="Gemini_Generated_Image_xy4wsxy4wsxy4wsx.png",
                    box=(0.00, 0.22, 1.00, 0.55), scale=2,
                    floor=26, ceil=232, cutoff=1, blur=0),
-    # la onda de senal, como separador ancho
-    "signal": dict(file="descarga (2).jfif",
-                   box=(0.10, 0.13, 0.90, 0.30), scale=3,
-                   floor=30, ceil=225, cutoff=1, blur=0),
+    # el templo bajo el planeta, como separador ancho
+    "temple": dict(file="WhatsApp Image 2026-08-31 at 3.33.34 PM (2).jpeg",
+                   box=(0.02, 0.02, 0.98, 0.98), scale=2,
+                   floor=40, ceil=215, cutoff=2, blur=0),
     # el ojo binario: se desenfoca antes para que la forma sobreviva al
     # dither; sin eso los digitos lo convierten en ruido ilegible
     "eye": dict(file="WhatsApp Image 2026-08-31 at 3.33.34 PM (3).jpeg",
