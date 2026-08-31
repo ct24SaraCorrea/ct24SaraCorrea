@@ -1,3 +1,11 @@
+# ── Action que regenera el README ────────────────────────────────────────
+# Este archivo NO puede subirse con un token que no tenga el scope
+# "workflow" (GitHub lo bloquea, tanto por git push como por la API).
+#
+# Para activarlo, copia este contenido a:  .github/workflows/readme.yml
+# Se puede hacer desde la web de GitHub: "Add file" > "Create new file",
+# escribe la ruta .github/workflows/readme.yml y pega esto.
+# ─────────────────────────────────────────────────────────────────────────
 name: readme
 
 # Regenera la tabla de proyectos leyendo los repos desde la API de GitHub,
