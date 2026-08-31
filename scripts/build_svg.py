@@ -124,7 +124,7 @@ if __name__ == "__main__":
     profile = json.loads((ROOT / "data/profile.json").read_text(encoding="utf-8"))
     OUT.mkdir(parents=True, exist_ok=True)
     for theme in THEMES:
-        p = OUT / f"tagline{theme}.svg"
+        p = OUT / f"constelacion{theme}.svg"
         p.write_text(constellation_svg(profile["tagline_lines"], theme),
                      encoding="utf-8")
         print(f"  {p.name}  {p.stat().st_size // 1024} KB")
