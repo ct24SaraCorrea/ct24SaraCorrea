@@ -26,8 +26,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tagline.svg">
-  <img src="assets/tagline-light.svg" width="58%" alt="python · opencv · mediapipe">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tagline.svg?v=2">
+  <img src="assets/tagline-light.svg?v=2" width="58%" alt="python · opencv · mediapipe">
 </picture>
 </div>
 
@@ -46,8 +46,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/temple.png">
-  <img src="assets/temple-light.png" width="44%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/temple.png?v=2">
+  <img src="assets/temple-light.png?v=2" width="44%" alt="">
 </picture>
 </div>
 
